@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "0.1.0"
+    created: 2021-11-03T13:43:01.301859468Z
+    description: This is for mrasif.in
+    name: mrasif
+    urls:
+    - https://github.com/mrasif/helm/raw/main/mrasif-0.1.0.tgz
+    version: 0.1.0
+generated: 2021-11-03T13:43:01.301859468Z
